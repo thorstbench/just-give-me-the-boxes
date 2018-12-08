@@ -1,4 +1,0 @@
-embed=discord.Embed(color=0xff0000)
-embed.add_field(name=SERVER RULES, value=MODERATION:, inline=True)
-embed.set_footer(text="bla bla bla bla bla bla bla")
-await self.bot.say(embed=embed)
